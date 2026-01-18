@@ -12,4 +12,3 @@ An offline-first, anonymous mobile application designed to allow community membe
 - Offline-first synchronization
 - Map-based visualization
 - Ethical and privacy-focused design
-gi
